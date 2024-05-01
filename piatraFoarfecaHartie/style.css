@@ -1,0 +1,39 @@
+body{
+    background-color: bisque;
+}
+
+.play-container{
+    height: 400px;
+    width: 600px;
+    background-color: peru;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.label{
+    font-size: 24px;
+}
+
+.player-one-section {
+    font-size: 24px;
+    border-radius: 8px;
+    padding: 4px;
+}
+
+.player-two-section{
+    font-size: 24px;
+    border-radius: 8px;
+    padding: 4px;
+}
+
+.submit-input{
+    font-size: 24px;
+    border-radius: 8px;
+    padding: 4px;
+}
+
+.result-text {
+    font-size: 32px; 
+    text-align: center; 
+    margin-top: 20px; 
+}
